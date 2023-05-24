@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+authors:
+- family-names: "Fonseca"
+  given-names: "Clebson"
+  orcid: https://orcid.org/0000-0003-4076-9650
+title: "octozzly"
+version: 0.0.1
+date-released: 2023-05-24
+url: "https://github.com/whoisclebs/octozzly"
+abstract: >-
+  The rise of centralized social media platforms has brought about concerns regarding data privacy, censorship, and control over user content. To address these challenges, this research introduces Octozzly, an open-source decentralized social networking platform designed with a focus on user privacy, data ownership, and community governance.
